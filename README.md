@@ -12,6 +12,7 @@ $ git clone https://github.com/geraldfw/Perlen2-CommonRoad-Search.git
 
 For a quick start, we have set up a `Binder` image, which fully runs in your browser (no installation or set-up necessary):
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/geraldfw/Perlen2-CommonRoad-Search/master)
 
 ## Ways to run
 
